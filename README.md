@@ -1,11 +1,6 @@
-public class Java_Treino {
 
+public class Main {
     public static void main(String[] args) {
-
-        soma(x = 10, y = 5);
-    }
-
-    static void soma(int x, int y) {
-
+        System.out.println("Olá, mundop!");
     }
 }
