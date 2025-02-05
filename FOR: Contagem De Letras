@@ -18,5 +18,6 @@ public class MinhaClass_2 {
             }
         }
         System.out.println("A quantidade de letras dessa frase é: " + quantidadeDeLetras);
-    }
+        scanner.close();
+    } 
 }
