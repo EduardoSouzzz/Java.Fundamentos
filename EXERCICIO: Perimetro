@@ -21,3 +21,4 @@ public class MinhaClass_4 {
         scanner.close();
     }
 }
+
