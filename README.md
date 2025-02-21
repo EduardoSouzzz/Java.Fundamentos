@@ -8,6 +8,7 @@ Repositório contendo exercícios e exemplos de código em Java.
 - **`controle_fluxo/`** → Estruturas de controle (`if`, `switch`, `loops`)  
 - **`exercicios/`** → Exercícios resolvidos
 - **`laço_de_repetição`** → Laço de Repetição (`for`,`while`, `do-while`)
+- **`Métodos/Funções`** → Métodos
 
 ## 🛠️ Tecnologias Utilizadas  
 - **Java**  
