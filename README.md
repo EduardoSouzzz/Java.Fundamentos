@@ -11,8 +11,9 @@ Repositório contendo exercícios e exemplos de código em Java.
 - **`Métodos/Funções`** → Métodos
 
 ## 🛠️ Tecnologias Utilizadas  
-- **Java**  
-- **Git & GitHub**  
+- **Java: OpenJDK 17.0.13 (Zulu)**
+- **IDE: IntelliJ IDEA**  
+- **GitHub**  
 
 ## ▶ Como Executar os Códigos  
 1. Clone o repositório:  
