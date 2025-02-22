@@ -15,7 +15,12 @@ Repositório contendo exercícios e exemplos de código em Java.
 - **IDE: IntelliJ IDEA**  
 - **GitHub**  
 
-## ▶ Como Executar os Códigos  
-1. Clone o repositório:  
-   ```bash
-   git clone https://github.com/EduardoSouzzz/Java.Repositorio.git
+## 🌟 Exemplo de Código
+public class Exemplo {
+    public static void main(String[] args) {
+        System.out.println("Olá, mundo! Este é um exemplo em Java.");
+    }
+}
+
+## Saída esperada:
+Olá, mundo! Este é um exemplo em Java.
