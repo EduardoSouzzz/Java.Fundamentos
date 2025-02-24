@@ -9,7 +9,7 @@ Repositório contendo exercícios e exemplos de código em Java.
 - **`exercicios/`** → Exercícios resolvidos
 - **`laço_de_repetição`** → Laço de Repetição (`for`,`while`, `do-while`)
 - **`Operador Ternário`** → (`Strings`)
-- **`Expressões Boleanas`** → (`true` and `false`)
+- **`Expressões Boleanas`** → (`true`, `false`)
 - **`Métodos/Funções`** → Métodos
 
 ## 🛠️ Tecnologias Utilizadas  
