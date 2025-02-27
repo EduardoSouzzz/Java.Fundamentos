@@ -19,7 +19,5 @@ public class MinhaClass_4 {
         }
 
         sc.close();
-
-        sc.close();
     }
 }
