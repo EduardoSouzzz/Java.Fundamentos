@@ -10,7 +10,9 @@ Repositório contendo exercícios e exemplos de código em Java.
 - **`laço_de_repetição`** → Laço de Repetição (`for`,`while`, `do-while`)
 - **`Operador Ternário`** → (`Strings`)
 - **`Expressões Boleanas`** → (`true`, `false`)
-- **`Métodos/Funções`** → Métodos
+- **`Estrutura De Dados`** → (`Arrays`)
+- **`Métodos/Funções`** → (`Métodos`)
+
 
 ## 🛠️ Tecnologias Utilizadas  
 - **Java: OpenJDK 17.0.13 (Zulu)**
