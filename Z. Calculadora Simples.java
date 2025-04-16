@@ -23,24 +23,24 @@ public class MinhaClass {
 
         switch (operador) {
             case "+" :
-                int adicao = ( num1 + num2 );
+                int adicao = num1 + num;
                 System.out.println("A sua conta de adição é: " + adicao);
                 break;
 
 
             case "-" :
-                int subtracao = ( num1 - num2 );
+                int subtracao = num1 - num2;
                 System.out.println("A sua conta de subtração é: " + subtracao);
                 break;
 
 
             case "*" :
-                int multiplicacao = ( num1 * num2 );
+                int multiplicacao = num1 * num2;
                 System.out.println("A sua conta de multiplicação é: " + multiplicacao);
                 break;
 
             case "/" :
-                int divisao = ( num1 / num2 );
+                int divisao = num1 / num2;
                 System.out.println("A sua conta de divisão é: " + divisao);
                 break;
         }
