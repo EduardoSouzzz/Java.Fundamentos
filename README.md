@@ -1,8 +1,5 @@
 README.md
 
-# Java.Repositorio 🚀  
-Repositório contendo exercícios e exemplos de código em Java.  
-
 # ☕ Fundamentos do Java
 
 Olá! 👋  
