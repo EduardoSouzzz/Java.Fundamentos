@@ -32,7 +32,6 @@ Este repositório é dedicado aos **Fundamentos do Java**, todo o conteúdo pres
 - **Condicionais: if, else, switch**
 - **Laços de repetição: for, while, do-while**
 - **Métodos (funções)**
-- **Arrays e vetores**
 - **Boas práticas de código**
 
 ---
