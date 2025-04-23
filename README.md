@@ -1,5 +1,3 @@
-README.md
-
 # ☕ Fundamentos do Java
 
 Olá! 👋  
